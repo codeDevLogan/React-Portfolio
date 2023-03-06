@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.bg {
+  background-image: url(../public/images/nebula.jpeg);
+  z-index: -1;
+  background-size: cover;
+}

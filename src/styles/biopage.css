@@ -4,5 +4,21 @@
 }
 
 img {
-    height: 500px;
+    height: 600px;
+}
+
+.bio {
+    background-color: #07111B;
+    color: #43545C;
+    opacity: .85;
+}
+
+.name {
+    font-size: 1.75em;
+    margin: 0;
+    padding: 0;
+}
+
+.bio2 {
+    font-size: 1.5em;
 }

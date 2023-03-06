@@ -7,7 +7,7 @@ import Biopage from './components/Biopage';
 
 function App() {
   return (
-    <div className="App">
+    <div className=" bg App">
       <Navbar />
       <Biopage />
     </div>
