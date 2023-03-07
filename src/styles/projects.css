@@ -1,3 +1,33 @@
-.project{
+.projectContainer {
+    display: flex;
+    margin-top: 10em;
+}
+
+.projectFrame{
+    background-color: blue;
+    border: medium solid black;
+    height: 700px;
+    width: 350px;
+    /* transform: skew(-15deg); */
+    margin: 0 2.5em;
+    z-index: 1;
+}
+
+.projectContent {
+    transform: translate(100px, 350px);
+    display: flex;
+    align-content: center;
     
+}
+
+.projectFrame > img {
+    translate: 0px -25px;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#project1 {
+    margin-left: 6em;
 }

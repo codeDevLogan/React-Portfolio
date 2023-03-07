@@ -3,6 +3,7 @@ import './App.css';
 // Importing components:
 import Navbar from './components/Header/index'
 import Biopage from './components/Biopage';
+import Projects from './components/Projects';
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <div className=" bg App">
       <Navbar />
       <Biopage />
+      <Projects />
     </div>
   );
 }
