@@ -10,22 +10,29 @@
     width: 350px;
     /* transform: skew(-15deg); */
     margin: 0 2.5em;
+    position: relative;
     z-index: 1;
 }
 
 .projectContent {
-    transform: translate(100px, 350px);
+    /* transform: translate(100px, 350px); */
     display: flex;
-    align-content: center;
+    align-items: center;
+    justify-content: center;
+    inset: 0;
+    position: absolute;
+    z-index: 2;
     
 }
 
 .projectFrame > img {
-    translate: 0px -25px;
     z-index: -1;
     height: 100%;
     width: 100%;
     object-fit: cover;
+}
+.projectFrame >img::after {
+
 }
 
 #project1 {

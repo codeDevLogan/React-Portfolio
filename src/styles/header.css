@@ -1,3 +1,17 @@
 #navBody {
-    position: sticky;
+    background-color: #392F2C;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    opacity: .75;
+    height: 40px;
+    z-index: 1;
+}
+#navBody:hover{
+    opacity: 1;
+}
+
+.nav-link{
+    color: #904E23;
 }
