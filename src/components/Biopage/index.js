@@ -1,4 +1,8 @@
 import '../../styles/biopage.css';
+import bioPic1 from '../../images/Portrait.jpg';
+import bioPic2 from '../../images/Digital_Background.jpg';
+import bioPic3 from '../../images/Handshake.jpg';
+
 const RESUME_PDF_URL = '/Logan_Peterson_Resume.pdf'
 const downloadFileAtURL = (url) => {
     const aTag = document.createElement('a');
@@ -16,7 +20,7 @@ export default function Biopage() {
             <div className='container2'>
                 <div className='card'>
                     <div className='front'>
-                        <img id="Biopic" src="/images/Portrait.jpg" alt="Logan Peterson Pictured in a suit and tie with sunglasses on."/>
+                        <img id="Biopic" src={bioPic1} alt="Logan Peterson Pictured in a suit and tie with sunglasses on."/>
                         <h1>
                             Logan Peterson
                         </h1>
@@ -30,7 +34,7 @@ export default function Biopage() {
             <div className='container2'>
                 <div className='card'>
                     <div className='front'>
-                        <img id="Biopic2" src="/images/Digital_Background.jpg" alt="A Screen of computer code."/>
+                        <img id="Biopic2" src={bioPic2} alt="A Screen of computer code."/>
                         <h1>
                             Skills
                         </h1>
@@ -44,7 +48,7 @@ export default function Biopage() {
             <div className='container2'>
                 <div className='card'>
                     <div className='front'>
-                        <img id="Biopic3" src="/images/Handshake.jpg" alt="Two Business Men Shaking Hands."/>
+                        <img id="Biopic3" src={bioPic3} alt="Two Business Men Shaking Hands."/>
                         <h1>
                             Resume
                         </h1>

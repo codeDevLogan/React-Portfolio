@@ -13,7 +13,6 @@ export default function Navbar() {
                         {/* These links are a generalized component used to supply the Navigation bar at the top of the screen with content. */}
                         <Links itemType="nav-item" linkType="nav-link" hrefLink="#home" text="Home"/>
                         <Links itemType="nav-item" linkType="nav-link" hrefLink="#projects" text="Projects"/>
-                        <Links itemType="nav-item" linkType="nav-link" hrefLink="#" text="About Me"/>
                     </ul>
                 </div>
             </div>
