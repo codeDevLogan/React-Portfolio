@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import {
-  Route,
-  Routes,
-} from 'react-router-dom'
+// import {
+//   Route,
+//   Routes,
+// } from 'react-router-dom'
 // Importing components:
 import Navbar from './components/Header/index'
 import Biopage from './components/Biopage';

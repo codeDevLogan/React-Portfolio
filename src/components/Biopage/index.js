@@ -3,7 +3,7 @@ import bioPic1 from '../../images/Portrait.jpg';
 import bioPic2 from '../../images/Digital_Background.jpg';
 import bioPic3 from '../../images/Handshake.jpg';
 
-const RESUME_PDF_URL = '/Logan_Peterson_Resume.pdf'
+const RESUME_PDF_URL = '../../Resume/Logan_Peterson_Resume.pdf'
 const downloadFileAtURL = (url) => {
     const aTag = document.createElement('a');
     const fileName = url.split('/').pop();
