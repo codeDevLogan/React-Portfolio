@@ -22,7 +22,6 @@
     inset: 0;
     position: absolute;
     z-index: 2;
-    
 }
 
 .projectFrame > img {
@@ -37,4 +36,23 @@
 
 #project1 {
     margin-left: 6em;
+}
+
+#gitIcon {
+    position: absolute;
+    translate: -76px 20px;
+    transform: scale(2.5);
+    z-index: 3;
+}
+
+#link1 {
+    position: absolute;
+    left:0; top:0; bottom:0; right:0;
+}
+#link2 {
+    z-index: 1;
+}
+
+h1 {
+    color: #da7d3f
 }
