@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.e9c94905.css",
-    "main.js": "/React-Portfolio/static/js/main.470d2475.js",
+    "main.js": "/React-Portfolio/static/js/main.3dcc506f.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/Digital_Background.jpg": "/React-Portfolio/static/media/Digital_Background.46c6f78dcebcc776ff64.jpg",
     "static/media/Portrait.jpg": "/React-Portfolio/static/media/Portrait.6a10948a6d86ab38e46a.jpg",
     "static/media/New-Day-New-City_.png": "/React-Portfolio/static/media/New-Day-New-City_.1289d90ac13c3bbc145c.png",
     "static/media/Logan-Portfolio.png": "/React-Portfolio/static/media/Logan-Portfolio.c4c9163ceed1c0802bcb.png",
     "static/media/nebula.jpeg": "/React-Portfolio/static/media/nebula.4f280f3ca23fa49fc383.jpeg",
+    "static/media/Astro-Friends.png": "/React-Portfolio/static/media/Astro-Friends.e35b534c10ff24624423.png",
     "static/media/Handshake.jpg": "/React-Portfolio/static/media/Handshake.9a218ca61496d03d1880.jpg",
     "static/media/Meet-The-Team-Page-Generator.png": "/React-Portfolio/static/media/Meet-The-Team-Page-Generator.81ac60b7e3eb96890b3c.png",
     "static/media/Gospel-Trivia-Game.png": "/React-Portfolio/static/media/Gospel-Trivia-Game.9bdf472eb9af7e97a564.png",
-    "static/media/Random-Pass-Gen.png": "/React-Portfolio/static/media/Random-Pass-Gen.8660e21e04bf30b02411.png",
     "static/media/NoteTaker.png": "/React-Portfolio/static/media/NoteTaker.73a8b3df6a833fdf89f7.png",
     "static/media/logo.svg": "/React-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-Portfolio/index.html",
     "main.e9c94905.css.map": "/React-Portfolio/static/css/main.e9c94905.css.map",
-    "main.470d2475.js.map": "/React-Portfolio/static/js/main.470d2475.js.map",
+    "main.3dcc506f.js.map": "/React-Portfolio/static/js/main.3dcc506f.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9c94905.css",
-    "static/js/main.470d2475.js"
+    "static/js/main.3dcc506f.js"
   ]
 }
