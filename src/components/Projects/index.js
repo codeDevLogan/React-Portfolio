@@ -4,7 +4,7 @@ import GitHubAnchor from './gitHubAnchors'
 
 import projImg1 from "../../images/NoteTaker.png"
 import projImg2 from "../../images/New-Day-New-City_.png"
-import projImg3 from "../../images/Random-Pass-Gen.png"
+import projImg3 from "../../images/Astro-Friends.png"
 import projImg4 from "../../images/Gospel-Trivia-Game.png"
 import projImg5 from "../../images/Logan-Portfolio.png"
 import projImg6 from "../../images/Meet-The-Team-Page-Generator.png"
@@ -18,8 +18,8 @@ export default function Projects() {
                 <GitHubAnchor gitLink={"https://github.com/codeDevLogan/Note-Taker-App"} />
                 <IndividualProject position={2} projectName={"New Day, New City"} projectLink="https://anthonyfrederick7.github.io/New-Day-New-City/" imgSrc={projImg2} gitLink={"https://github.com/AnthonyFrederick7/New-Day-New-City"}/>
                 <GitHubAnchor gitLink={"https://github.com/AnthonyFrederick7/New-Day-New-City"} />
-                <IndividualProject position={3} projectName={"Random Password Generator"} projectLink="https://codedevlogan.github.io/Random-Pass-Gen/" imgSrc={projImg3} gitLink={"https://github.com/codeDevLogan/Random-Pass-Gen"}/>
-                <GitHubAnchor gitLink={"https://github.com/codeDevLogan/Random-Pass-Gen"} />
+                <IndividualProject position={3} projectName={"Astro-Friends"} projectLink="https://lit-river-96559.herokuapp.com/" imgSrc={projImg3} gitLink={"https://github.com/igurgoze/Astro-Friends"}/>
+                <GitHubAnchor gitLink={"https://github.com/igurgoze/Astro-Friends"} />
                 <IndividualProject position={4} projectName={"Gospel Trivia Game"} projectLink="https://codedevlogan.github.io/Gospel-Trivia-Game/" imgSrc={projImg4} gitLink={"https://github.com/codeDevLogan/Gospel-Trivia-Game"}/>
                 <GitHubAnchor gitLink={"https://github.com/codeDevLogan/Gospel-Trivia-Game"} />
                 <IndividualProject position={5} projectName={"Old Portfolio"} projectLink="https://codedevlogan.github.io/Logan-Portfolio//" imgSrc={projImg5} gitLink={"https://github.com/codeDevLogan/Logan-Portfolio"}/>
